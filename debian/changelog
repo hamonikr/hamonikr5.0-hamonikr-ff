@@ -1,0 +1,48 @@
+hamonikr-ff (3.0.0) public; urgency=medium
+
+  * Release for HamoniKR 5.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 08 Apr 2021 11:44:09 +0900
+
+hamonikr-ff (2.0.0) entjin; urgency=medium
+
+  * Update usr/local/bin/ff
+   - Choose bat or cat
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 08 Mar 2021 14:08:35 +0900
+
+hamonikr-ff (1.0.4) jin; urgency=medium
+
+  * Update usr/local/bin/ff
+   - Add all file list for default mode
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 12 Nov 2020 19:07:32 +0900
+
+hamonikr-ff (1.0.3) jin; urgency=medium
+
+  * Update usr/local/bin/ff
+   - Add key binding F1, F2
+   - F1 : Copy file
+   - F2 : Edit file
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 11 Nov 2020 13:37:44 +0900
+
+hamonikr-ff (1.0.2) jin; urgency=medium
+
+  * Update usr/local/bin/ff
+   - Change for preview scroll
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 11 Nov 2020 13:12:07 +0900
+
+hamonikr-ff (1.0.1) jin; urgency=medium
+
+  * Update debian/control
+   - Add dependancy vim
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 11 Nov 2020 12:56:33 +0900
+
+hamonikr-ff (1.0.0) jin; urgency=medium
+
+  * Initial release
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 11 Nov 2020 11:51:42 +0900
